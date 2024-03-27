@@ -16,7 +16,7 @@ I possess significant experience collaborating with project stakeholders across 
 ## Skills
 
 •	SQL , Tableau , Power BI , Microsoft Excel , Python  
-•	Business Analytics , Data Analytics , Business Intelligence 
+•	Business Analytics , Data Analytics , Business Intelligence  
 •	Statistics , Machine Learning , Exploratory Data Analysis (EDA) , Extract, Transform, Load (ETL)  
 •	Problem Solving , Analytical Thinking , Creative Thinking   
 •	Project Management , Atlassian Jira , Confluence , Agile Methodology  

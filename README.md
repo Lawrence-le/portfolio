@@ -92,9 +92,6 @@ To find the monthly projected ramp up rate to reach breakeven point.
 Background:
 As a business analyst working in a tech company called TechGenius Inc. that specializes in innovative consumer electronics. The company has decided to launch a new product, the XYZ Smartwatch, which combines fitness tracking, communication features, and stylish design. The goal is to penetrate the smartwatch market and achieve profitability within the first year.
 
-Assumptions:
-The initial investment for designing, manufacturing, and marketing the XYZ Smartwatch is $500,000. The company plans to sell the smartwatch for $200 per unit. Variable costs per unit (manufacturing, packaging, shipping) amount to $80. Fixed costs (salaries, rent, utilities, etc.) are estimated at $100,000 per month. The company aims to break even within the first six months starting from 500 units on the 1st month.
-
 [Link](https://lawrence-le.github.io/sales_projection/)
 
 

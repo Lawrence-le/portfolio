@@ -15,6 +15,7 @@
 •	National University of Singapore (NUS) – Professional Certificate in Business Analytics  
 •	Google Advanced Data Analytics Specialization  
 •	Google Data Analytics Specialization  
+
 ***
 
 ## Work Experience

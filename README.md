@@ -95,7 +95,7 @@ As a business analyst working in a tech company called TechGenius Inc. that spec
 
 ### Statistical Analysis: Hypothesis A/B Testing
 
-https://lawrence-le.github.io/statistical-analysis-AB-Testing/
+![vecteezy_gauss-distribution-standard-normal-distribution-gaussian_7695518](https://github.com/Lawrence-le/statistical-analysis-AB-Testing/assets/151991077/c185d953-7a86-4cd5-9681-139356bdfa36)
 
 Project objectives:
 Using A/B Testing to analyze the relationship between fare amount and payment type.

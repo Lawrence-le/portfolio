@@ -1,20 +1,69 @@
 # Associate Division Director
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+## Skills
+•	SQL , Tableau , Power BI , Microsoft Excel , Python  
+•	Business Analytics , Data Analytics , Business Intelligence 
+•	Statistics , Machine Learning , Exploratory Data Analysis (EDA) , Extract, Transform, Load (ETL)  
+•	Problem Solving , Analytical Thinking , Creative Thinking   
+•	Project Management , Atlassian Jira , Confluence , Agile Methodology  
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+•	National University of Singapore (NUS) – Bachelor of Technology in Mechanical Engineering  
+•	National University of Singapore (NUS) – Data Intelligence and Business Analytics Programme  
+•	National University of Singapore (NUS) – Professional Certificate in Trisector Strategy and Innovation for Transformation  
+•	National University of Singapore (NUS) – Professional Certificate in Business Analytics  
+•	Google Advanced Data Analytics Specialization  
+•	Google Data Analytics Specialization  
+
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Associate Division Director @ Propnex Ltd**  
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+•	Utilized business analytics tools including SQL, Python, PowerBI/Tableau to analyze real estate market trends and offer data-driven insights to clients  
+•	Implemented effective marketing and sales strategies to attract and convert leads  
+•	Developed impactful digital marketing content strategies, incorporating visualization tools for enhanced presentation  
+•	Cultivated and sustained client relationships for superior satisfaction  
+•	Provided guidance and mentorship to agents for professional growth and achievement  
+
+
+**Associate Division Director @ ERA Singapore**  
+
+•	Analyze real estate market trends, providing clients data-driven insights  
+•	Develop and implement marketing and sales strategies to attract clients and generate leads  
+•	Craft compelling digital marketing content strategies  
+•	Build strong client relationships, ensuring high customer satisfaction  
+•	Provide guidance and mentorship to agents for professional development  
+•	Lead and manage a team of agents to achieve sales targets and deliver exceptional service  
+
+**Senior Mechanical Engineer / Project Leader @ Continental Automotive Singapore**  
+
+•	Oversaw engineering projects from initiation to completion, meeting deadlines consistently  
+•	Collaborated with cross-functional teams to identify and resolve design issues  
+•	Managed projects through planning, integration, and delivery of deliverables  
+•	Analyzed test data and optimized product outcomes  
+•	Used AGILE methodology for project management  
+•	Collaborated with suppliers and manufacturers for product quality improvement  
+•	Conducted design review meetings and project milestone updates  
+•	Created technical documentation  
+•	Formulated project scopes, budgets, and goals, achieving 100% goal attainment within budget  
+•	Delivered critical analysis and recommendations with 98% adoption  
+•	Led project prioritization efforts with the engineering team
+
+**Associate Mechanical Engineer @ Creative Technology Limited**  
+
+•	Oversaw engineering projects from initiation to completion, meeting deadlines consistently  
+•	Collaborated with cross-functional teams to identify and resolve design issues  
+•	Managed projects through planning, integration, and delivery of deliverables  
+•	Analyzed test data and optimized product outcomes  
+•	Used AGILE methodology for project management  
+•	Collaborated with suppliers and manufacturers for product quality improvement  
+•	Conducted design review meetings and project milestone updates  
+•	Created technical documentation  
+•	Formulated project scopes, budgets, and goals, achieving 100% goal attainment within budget  
+•	Delivered critical analysis and recommendations with 98% adoption  
+•	Led project prioritization efforts with the engineering team  
+
+
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees

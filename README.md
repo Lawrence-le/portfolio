@@ -1,5 +1,5 @@
 # Associate Division Director
-
+***
 ## Skills
 ***
 •	SQL , Tableau , Power BI , Microsoft Excel , Python  
@@ -15,7 +15,7 @@
 •	National University of Singapore (NUS) – Professional Certificate in Business Analytics  
 •	Google Advanced Data Analytics Specialization  
 •	Google Data Analytics Specialization  
-
+***
 
 ## Work Experience
 **Associate Division Director @ Propnex Ltd**  
@@ -25,7 +25,7 @@
 •	Developed impactful digital marketing content strategies, incorporating visualization tools for enhanced presentation  
 •	Cultivated and sustained client relationships for superior satisfaction  
 •	Provided guidance and mentorship to agents for professional growth and achievement  
-
+***
 
 **Associate Division Director @ ERA Singapore**  
 
@@ -65,7 +65,7 @@
 •	Led project prioritization efforts with the engineering team  
 
 
-
+***
 ## Projects
 ### Optimizing Supply Chain Strategies for Tech Haven: Navigating Unit Costs and Demand Uncertainties in the Smartphone Retail Landscape
 

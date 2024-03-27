@@ -67,19 +67,38 @@
 
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Optimizing Supply Chain Strategies for Tech Haven: Navigating Unit Costs and Demand Uncertainties in the Smartphone Retail Landscape
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Objectives
+Find the optimized ordering strategy using data visualisation.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+Background
+Tech Haven, a leading technology retailer with numerous locations across the nation, faces the challenge of efficiently ordering the latest gadgets and distributing them to its individual stores.
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+Scenario
+In this case, let’s consider a popular new smartphone model, which Tech Haven plans to sell for $800. The unit cost for each device depends on the quantity ordered, and Tech Haven wants to optimize its ordering strategy.
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+[Link](https://lawrence-le.github.io/Optimizing-Supply-Chain-Strategies/)
 
-![Bike Study](/assets/img/bike_study.jpeg)
+
+
+
+
+### Business Analytics: No. of Unit Sale Projection to Achieve Breakeven Point
+
+Objective:
+To find the monthly projected ramp up rate to reach breakeven point.
+
+Background:
+As a business analyst working in a tech company called TechGenius Inc. that specializes in innovative consumer electronics. The company has decided to launch a new product, the XYZ Smartwatch, which combines fitness tracking, communication features, and stylish design. The goal is to penetrate the smartwatch market and achieve profitability within the first year.
+
+Assumptions:
+The initial investment for designing, manufacturing, and marketing the XYZ Smartwatch is $500,000. The company plans to sell the smartwatch for $200 per unit. Variable costs per unit (manufacturing, packaging, shipping) amount to $80. Fixed costs (salaries, rent, utilities, etc.) are estimated at $100,000 per month. The company aims to break even within the first six months starting from 500 units on the 1st month.
+
+[Link](https://lawrence-le.github.io/sales_projection/)
+
+
+
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021

@@ -99,6 +99,15 @@ The initial investment for designing, manufacturing, and marketing the XYZ Smart
 
 
 
+### Statistical Analysis: Hypothesis A/B Testing
+
+Project objectives:
+Using A/B Testing to analyze the relationship between fare amount and payment type.
+
+In this project, I will practice using statistics to analyze and interpret data. The activity covers fundamental concepts such as descriptive statistics and hypothesis testing. I will be exploring the data provided and conduct A/B and hypothesis testing.
+
+[Link](https://lawrence-le.github.io/statistical-analysis-AB-Testing/)
+
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021

@@ -25,7 +25,7 @@
 •	Developed impactful digital marketing content strategies, incorporating visualization tools for enhanced presentation  
 •	Cultivated and sustained client relationships for superior satisfaction  
 •	Provided guidance and mentorship to agents for professional growth and achievement  
-***
+
 
 **Associate Division Director @ ERA Singapore**  
 

@@ -186,7 +186,7 @@ Additionally, I also created another visual that divide the bike rental by seaso
 
 ### Google Data Analytic Case Study Cyclistic
 
-![image](https://github.com/Lawrence-le/portfolio/assets/151991077/e5131e46-9817-459e-92d7-65dec3203ab3)
+![image](https://github.com/Lawrence-le/portfolio/assets/151991077/1316b958-7544-4881-ba31-d93c4d496a5e)
 
 Google Data Analytic Case Study CyclisticGoogle Data Analytic Case Study Cyclistic
 Oct 2023 - Oct 2023Oct 2023 - Oct 2023

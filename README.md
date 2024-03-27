@@ -136,6 +136,8 @@ Using IQR method for Outlier Detection
 Plot scatterplot to visualise the outliers in red
 Understanding outliers impact on the mean and median
 
+[Link](https://lawrence-le.github.io/identify-and-deal-with-outliers/)
+
 ### Airbnb listings in Singapore (2022) Power BI Visualization
 
 ![image](https://github.com/Lawrence-le/portfolio/assets/151991077/87dd0d87-91e6-4c7a-a270-d71b646b7916)
@@ -185,6 +187,7 @@ A summary of my analysis
 Supporting visualizations and key findings
 
 [Tableau Public](https://public.tableau.com/app/profile/lawrence.lee1639/viz/CaseStudy-Cyclistic_17010249420570/Story1)
+
 [Github](https://lawrence-le.github.io/Project_Google_Data_Analytic_Case_Study_Cyclistic/)
 
 

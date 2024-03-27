@@ -75,9 +75,6 @@ Find the optimized ordering strategy using data visualisation.
 Background
 Tech Haven, a leading technology retailer with numerous locations across the nation, faces the challenge of efficiently ordering the latest gadgets and distributing them to its individual stores.
 
-Scenario
-In this case, let’s consider a popular new smartphone model, which Tech Haven plans to sell for $800. The unit cost for each device depends on the quantity ordered, and Tech Haven wants to optimize its ordering strategy.
-
 [Link](https://lawrence-le.github.io/Optimizing-Supply-Chain-Strategies/)
 
 

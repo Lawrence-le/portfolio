@@ -1,13 +1,19 @@
 # Associate Division Director
+
 ***
+
 ## Skills
+
 ***
+
 •	SQL , Tableau , Power BI , Microsoft Excel , Python  
 •	Business Analytics , Data Analytics , Business Intelligence 
 •	Statistics , Machine Learning , Exploratory Data Analysis (EDA) , Extract, Transform, Load (ETL)  
 •	Problem Solving , Analytical Thinking , Creative Thinking   
 •	Project Management , Atlassian Jira , Confluence , Agile Methodology  
+
 ***
+
 ## Education
 •	National University of Singapore (NUS) – Bachelor of Technology in Mechanical Engineering  
 •	National University of Singapore (NUS) – Data Intelligence and Business Analytics Programme  
@@ -67,6 +73,7 @@
 
 
 ***
+
 ## Projects
 ### Optimizing Supply Chain Strategies for Tech Haven: Navigating Unit Costs and Demand Uncertainties in the Smartphone Retail Landscape
 

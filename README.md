@@ -7,7 +7,7 @@
 •	Statistics , Machine Learning , Exploratory Data Analysis (EDA) , Extract, Transform, Load (ETL)  
 •	Problem Solving , Analytical Thinking , Creative Thinking   
 •	Project Management , Atlassian Jira , Confluence , Agile Methodology  
-
+***
 ## Education
 •	National University of Singapore (NUS) – Bachelor of Technology in Mechanical Engineering  
 •	National University of Singapore (NUS) – Data Intelligence and Business Analytics Programme  

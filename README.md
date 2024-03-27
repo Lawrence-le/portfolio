@@ -69,6 +69,8 @@
 ## Projects
 ### Optimizing Supply Chain Strategies for Tech Haven: Navigating Unit Costs and Demand Uncertainties in the Smartphone Retail Landscape
 
+![image](https://github.com/Lawrence-le/Optimizing-Supply-Chain-Strategies/assets/151991077/29b9212f-6015-4c1c-8bd0-1b14345e9e65)
+
 Objectives
 Find the optimized ordering strategy using data visualisation.
 
@@ -82,6 +84,8 @@ Tech Haven, a leading technology retailer with numerous locations across the nat
 
 
 ### Business Analytics: No. of Unit Sale Projection to Achieve Breakeven Point
+
+![image](https://github.com/Lawrence-le/sales_projection/assets/151991077/46d90e06-d2d9-481f-a166-0f357add64a9)
 
 Objective:
 To find the monthly projected ramp up rate to reach breakeven point.
@@ -104,26 +108,85 @@ In this project, I will practice using statistics to analyze and interpret data.
 
 [Link](https://lawrence-le.github.io/statistical-analysis-AB-Testing/)
 
+### Addressing missing data
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+![image](https://github.com/Lawrence-le/addressing_missing_data/assets/151991077/2b0cdf63-76fd-420d-8581-7f1674218790)
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+Introduction
+The datasets that data professionals use to solve problems typically contain missing values, which must be dealt with in order to achieve clean, useful data.
+This is particularly crucial in exploratory data analysis (EDA). In this problem, I am showing how I address missing data.
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+[Link](https://lawrence-le.github.io/addressing_missing_data/)
 
-- [Data Science Blog](https://medium.com/@shawhin)
+
+
+### Identify and deal with outliers
+![image](https://github.com/Lawrence-le/identify-and-deal-with-outliers/assets/151991077/84be2eff-fb9c-46f1-9c76-8c3b8d6ad21b)
+
+Objective
+I will be analyzing lightning strike data obtained from the National Oceanic and Atmospheric Administration (NOAA) spanning the years 1987 to 2020 for my project document. To manage the extensive dataset, which consists of millions of rows, I’ve undertaken preprocessing to streamline the information, retaining only the year and the corresponding count of lightning strikes.
+
+The primary objective of my project is to explore the variation in total lightning strike counts for each year and pinpoint any outliers within the dataset.
+
+Tools used: Python, pandas, numpy, seaborn, matplotlib
+
+Method Used
+Boxplot visual tool to effectively analyze data distribtuion by percentiles and quartiles.
+Using IQR method for Outlier Detection
+Plot scatterplot to visualise the outliers in red
+Understanding outliers impact on the mean and median
+
+### Airbnb listings in Singapore (2022) Power BI Visualization
+
+![image](https://github.com/Lawrence-le/portfolio/assets/151991077/87dd0d87-91e6-4c7a-a270-d71b646b7916)
+
+Overview
+This GitHub repository hosts a Power BI visualization project focused on Airbnb listings in Singapore for the year 2022. The primary objective of this project is to answer a critical business question: “What are the factors that affect occupancy rates, significantly impacting revenue for Airbnb hosts in Singapore?”
+
+[Link](https://lawrence-le.github.io/Project_Airbnb_2022_listings/)
+
+
+### Seoul Bike Rental Maintenance 2018
+
+![image](https://github.com/Lawrence-le/portfolio/assets/151991077/6cb5dc5d-c264-4804-8459-fc97d4084cca)
+
+Scenario
+
+In my current project as a data professional consulting for the Seoul transportation department, I'm tasked with analyzing the rented bicycle data from 2018. The director of the department has specifically requested insights into the best time of day for maintenance teams to repair bikes. The goal is to schedule maintenance during lower traffic times while adhering to standard working hours (8 a.m. to 5 p.m).
+
+To achieve this, I am utilizing Tableau to design a data visualization that effectively illustrates the low-traffic periods on standard workdays. The visualization will be instrumental in identifying optimal time slots for bike maintenance. Importantly, the director has specified the inclusion of gradients of orange to align with the company colors.
+
+In the process of designing the visualization, my primary focus is on clarity, accessibility, and ethical considerations. The visualization should provide a clear representation of low-traffic times during standard work hours. I will use Tableau's features to filter and present the data in a visually appealing manner, making it accessible to stakeholders.
+
+Additionally, I also created another visual that divide the bike rental by season to show what are the best low peak time of the day during different seasons to carry out maintenance.
+
+[Tableau Public](https://public.tableau.com/app/profile/lawrence.lee1639/viz/GoogleAdvancedDataAnalytics-SeoulBikeRentalMaintenancePlannerfor2018/Weekdayallseason)
+
+[Github](https://lawrence-le.github.io/Visualization_Seoul_Bike_Rental_Maintenance_2018/)
+
+### Google Data Analytic Case Study Cyclistic
+
+![image](https://github.com/Lawrence-le/portfolio/assets/151991077/e5131e46-9817-459e-92d7-65dec3203ab3)
+
+Google Data Analytic Case Study CyclisticGoogle Data Analytic Case Study Cyclistic
+Oct 2023 - Oct 2023Oct 2023 - Oct 2023
+This Google data analytics capstone project integrates the utilization of PostgreSQL and Tableau for comprehensive data cleaning and analytics.
+
+Project Overview
+As a data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, your team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, your team will design a new marketing strategy to convert casual riders into annual members.
+
+The director of marketing and my manager assigned me to this business question: How do annual members and casual riders use Cyclistic bikes differently?
+
+Project Deliverables
+A clear statement of the business task
+A description of all data sources used
+Documentation of any cleaning or manipulation of data
+A summary of my analysis
+Supporting visualizations and key findings
+
+[Tableau Public](https://public.tableau.com/app/profile/lawrence.lee1639/viz/CaseStudy-Cyclistic_17010249420570/Story1)
+[Github](https://lawrence-le.github.io/Project_Google_Data_Analytic_Case_Study_Cyclistic/)
+
+
+
+

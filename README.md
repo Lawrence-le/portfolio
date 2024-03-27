@@ -68,14 +68,14 @@ I possess significant experience collaborating with project stakeholders across 
 
 **Associate Mechanical Engineer @ Creative Technology Limited**  
 
-•	Improve designs and adapt to cost variations.
-•	Develop new products and packaging solutions.
-•	Prepare part and assembly drawings for tool release.
-•	Lead and conduct mechanical tooling and design reviews.
-•	Create technical documentation.
-•	Work with project team members from various functions.
-•	Coordinate with vendors for quotations and fabrication.
-•	Partner with suppliers and manufacturers for ongoing product quality and process improvements.
+•	Improve designs and adapt to cost variations  
+•	Develop new products and packaging solutions  
+•	Prepare part and assembly drawings for tool release  
+•	Lead and conduct mechanical tooling and design reviews  
+•	Create technical documentation  
+•	Work with project team members from various functions  
+•	Coordinate with vendors for quotations and fabrication  
+•	Partner with suppliers and manufacturers for ongoing product quality and process improvements  
 
 ***
 

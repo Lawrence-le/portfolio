@@ -68,18 +68,14 @@ I possess significant experience collaborating with project stakeholders across 
 
 **Associate Mechanical Engineer @ Creative Technology Limited**  
 
-•	Oversaw engineering projects from initiation to completion, meeting deadlines consistently  
-•	Collaborated with cross-functional teams to identify and resolve design issues  
-•	Managed projects through planning, integration, and delivery of deliverables  
-•	Analyzed test data and optimized product outcomes  
-•	Used AGILE methodology for project management  
-•	Collaborated with suppliers and manufacturers for product quality improvement  
-•	Conducted design review meetings and project milestone updates  
-•	Created technical documentation  
-•	Formulated project scopes, budgets, and goals, achieving 100% goal attainment within budget  
-•	Delivered critical analysis and recommendations with 98% adoption  
-•	Led project prioritization efforts with the engineering team  
-
+•	Improve designs and adapt to cost variations.
+•	Develop new products and packaging solutions.
+•	Prepare part and assembly drawings for tool release.
+•	Lead and conduct mechanical tooling and design reviews.
+•	Create technical documentation.
+•	Work with project team members from various functions.
+•	Coordinate with vendors for quotations and fabrication.
+•	Partner with suppliers and manufacturers for ongoing product quality and process improvements.
 
 ***
 

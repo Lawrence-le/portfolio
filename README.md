@@ -101,6 +101,8 @@ The initial investment for designing, manufacturing, and marketing the XYZ Smart
 
 ### Statistical Analysis: Hypothesis A/B Testing
 
+https://lawrence-le.github.io/statistical-analysis-AB-Testing/
+
 Project objectives:
 Using A/B Testing to analyze the relationship between fare amount and payment type.
 

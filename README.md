@@ -1,7 +1,7 @@
 ASSOCIATE DIVISION DIRECTOR  
 BUSINESS ANALYTICS | MACHINE LEARNING  
 TABLEAU - SQL - POWER BI - PYTHON - SPREADSHEETS  
-
+[Linkedin](https://www.linkedin.com/in/lawrence-mklee/)
 
 ***
 

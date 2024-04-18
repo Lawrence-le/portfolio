@@ -1,6 +1,5 @@
 ASSOCIATE DIVISION DIRECTOR  
-BUSINESS ANALYTICS | MACHINE LEARNING  
-TABLEAU - SQL - POWER BI - PYTHON - SPREADSHEETS  
+Sales and Marketing Practitioner | Product & Project Management Specialist | Business & Data Analytics  
 [Linkedin](https://www.linkedin.com/in/lawrence-mklee/)
 
 ***

@@ -9,7 +9,7 @@ TABLEAU - SQL - POWER BI - PYTHON - SPREADSHEETS
 
 Experienced professional with a diverse background in real estate sales, marketing, and project management. Skilled in leveraging data for strategic decision-making, I specialize in crafting and implementing data strategies using SQL, Python, PowerBI, and Tableau.  
 
-I possess significant experience collaborating with project stakeholders across various regions, primarily focusing on the USA. Leading a pivotal project in the USA, I forged essential work partnerships between Japan and the American region, demonstrating my adeptness in navigating cross-cultural dynamics and fostering successful business collaborations.
+I possess significant experience collaborating with project stakeholders across various regions, primarily focusing on the USA. Leading a pivotal project in the USA, I forged essential work partnerships between Japan and the American region, demonstrating my adeptness in navigating cross-cultural dynamics and fostering successful business collaborations. My strong communication skills were instrumental in bridging cultural gaps and ensuring effective dialogue between stakeholders, contributing to the project's success and strengthening relationships with clients and partners.  
 
 ***
 

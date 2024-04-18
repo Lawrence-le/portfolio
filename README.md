@@ -14,13 +14,13 @@ I possess significant experience collaborating with project stakeholders across 
 ***
 
 ## Skills
-•	SQL, Tableau, Power BI, Microsoft Excel, Python
-•	Business Analytics, Data Analytics
-•	Statistics, Machine Learning, Exploratory Data Analysis (EDA), Extract, Transform, Load (ETL)
-•	Problem Solving, Analytical Thinking, Creative Thinking, Strategic Thinking
-•	Project Management, Atlassian Jira, Confluence, Agile Methodology
-•	Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro, Adobe After Effects
-•	Digital Marketing & Analytics (Website Analytics, YouTube Analytics)
+•	SQL, Tableau, Power BI, Microsoft Excel, Python  
+•	Business Analytics, Data Analytics  
+•	Statistics, Machine Learning, Exploratory Data Analysis (EDA), Extract, Transform, Load (ETL)  
+•	Problem Solving, Analytical Thinking, Creative Thinking, Strategic Thinking  
+•	Project Management, Atlassian Jira, Confluence, Agile Methodology  
+•	Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro, Adobe After Effects  
+•	Digital Marketing & Analytics (Website Analytics, YouTube Analytics)  
 
 ***
 
@@ -37,16 +37,18 @@ I possess significant experience collaborating with project stakeholders across 
 ## Work Experience
 **Associate Division Director @ Propnex Ltd**  
 
-•	Utilized business analytics tools including SQL, Python, PowerBI/Tableau to analyze real estate market trends and offer data-driven insights to clients  
+•	Utilized business analytics tools including SQL, Python, PowerBI/Tableau to analyze real estate market trends and offer data-driven insights to clients    
+•	Proficiently managing multiple tasks across diverse clients and products with meticulous attention to detail  
+•	Actively listen to clients' needs and follow up with their requirements, tailoring a structured investment solution  
 •	Implemented effective marketing and sales strategies to attract and convert leads  
-•	Developed impactful digital marketing content strategies, incorporating visualization tools for enhanced presentation  
-•	Cultivated and sustained client relationships for superior satisfaction  
+•	Developed impactful digital marketing content strategies, incorporating visualization tools for enhanced presentation    
+•	Cultivated and sustained client relationships for superior satisfaction    
 •	Provided guidance and mentorship to agents for professional growth and achievement  
-
 
 **Associate Division Director @ ERA Singapore**  
 
 •	Analyze real estate market trends, providing clients data-driven insights  
+•	Multitasking effectively across various clients and products, managing multiple tasks concurrently with attention to detail  
 •	Develop and implement marketing and sales strategies to attract clients and generate leads  
 •	Craft compelling digital marketing content strategies  
 •	Build strong client relationships, ensuring high customer satisfaction  

@@ -1,11 +1,17 @@
-Email: (lawrence_mklee@hotmail.com)  
-LinkedIn: (https://www.linkedin.com/in/lawrence-mklee)
+[Email](lawrence_mklee@hotmail.com)  
+[LinkedIn](https://www.linkedin.com/in/lawrence-mklee)
 
 ***
 
 ## Profile
 
-Experienced professional with expertise in Sales and Marketing, Product & Project Management, and Business & Data Analytics.
+I excel in leading sales teams, managing client relationships, and implementing key financial planning strategies such as Pricing Strategies, Transaction Financing, Budgeting, Investment Analysis, and Risk Management, ensuring successful real estate transactions.
+
+My proficiency in efficiently managing multiple projects concurrently, coupled with my keen attention to detail and creative problem-solving skills, enables me to navigate the complexities of project management, including Agile methodologies, and devise innovative solutions for comprehensive challenges.
+
+I possess technical expertise in SQL, Python, Tableau, and PowerBI, enhancing my competency in business analysis and enabling me to extract valuable insights for clients through thorough data and market trend analyses.
+
+Beyond these technical skills, my passion for analysis drives me to actively acquire new skills such as machine learning, statistical testing, and data modeling, further enhancing my ability to deliver exceptional results.
 
 ***
 

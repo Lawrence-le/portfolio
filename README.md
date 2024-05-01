@@ -5,9 +5,7 @@
 
 ## Profile
 
-I excel in leading sales teams, managing client relationships, and implementing key financial planning strategies such as Pricing Strategies, Transaction Financing, Budgeting, Investment Analysis, and Risk Management, ensuring successful real estate transactions.
-
-My proficiency in efficiently managing multiple projects concurrently, coupled with my keen attention to detail and creative problem-solving skills, enables me to navigate the complexities of project management, including Agile methodologies, and devise innovative solutions for comprehensive challenges.
+My proficiency in simultaneously managing multiple projects, coupled with my meticulous attention to detail and creative problem-solving skills, equips me to navigate the intricacies of project management, including Agile methodologies. I excel in devising innovative solutions to address comprehensive product challenges
 
 I possess technical expertise in SQL, Python, Tableau, and PowerBI, enhancing my competency in business analysis and enabling me to extract valuable insights for clients through thorough data and market trend analyses.
 

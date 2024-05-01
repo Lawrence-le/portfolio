@@ -5,7 +5,13 @@
 
 ## Profile
 
-Experienced professional with expertise in Sales and Marketing, Product & Project Management, and Business & Data Analytics. Skilled in leveraging data for strategic decision-making, I specialize in crafting and implementing data strategies using SQL, Python, PowerBI, and Tableau.
+My proficiency in project management, including Agile methodologies, stems from managing multiple projects with meticulous attention to detail and creative problem-solving skills. I excel in devising innovative solutions for complex product challenges.
+
+Additionally, my technical expertise in SQL, Python, Tableau, and PowerBI enhances my competency in business analysis, allowing me to extract valuable insights for clients through thorough data and market trend analyses.
+
+I also excel in managing sales teams and crafting digital marketing strategies, building strong client relationships, ensuring high satisfaction, and mentoring teams for success while consistently meeting sales targets.
+
+Beyond these technical and managerial skills, my passion for analysis drives me to actively acquire new skills such as machine learning, statistical testing, and data modeling, further enhancing my ability to deliver exceptional results.
 
 ***
 

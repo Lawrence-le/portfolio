@@ -1,4 +1,4 @@
-Email: lawrence_mklee@hotmail.com  
+[Email](lawrence_mklee@hotmail.com)  
 [Linkedin](https://www.linkedin.com/in/lawrence-mklee/)
 
 ***

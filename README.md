@@ -5,7 +5,7 @@
 
 ## Profile
 
-My proficiency in project management, including Agile methodologies, stems from managing multiple projects with meticulous attention to detail and creative problem-solving skills. I excel in devising innovative solutions for complex challenges.
+My proficiency in project management, including Agile methodologies, stems from managing multiple projects with meticulous attention to detail and creative problem-solving skills. I excel in devising innovative solutions for complex product challenges.
 
 Additionally, my technical expertise in SQL, Python, Tableau, and PowerBI enhances my competency in business analysis, allowing me to extract valuable insights for clients through thorough data and market trend analyses.
 

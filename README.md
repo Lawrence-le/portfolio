@@ -6,9 +6,9 @@ Sales and Marketing Practitioner | Product & Project Management Specialist | Bus
 
 ## Profile
 
-Experienced professional with a diverse background in real estate sales, marketing, and project management. Skilled in leveraging data for strategic decision-making, I specialize in crafting and implementing data strategies using SQL, Python, PowerBI, and Tableau.  
+Experienced professional with expertise in Sales and Marketing, Product & Project Management, and Business & Data Analytics.
 
-I possess significant experience collaborating with project stakeholders across various regions, primarily focusing on the USA. Leading a pivotal project in the USA, I forged essential work partnerships between Japan and the American region, demonstrating my adeptness in navigating cross-cultural dynamics and fostering successful business collaborations. My strong communication skills were instrumental in bridging cultural gaps and ensuring effective dialogue between stakeholders, contributing to the project's success and strengthening relationships with clients and partners.  
+I have extensive experience collaborating with stakeholders across regions, with a focus on the USA. I led a key project that forged partnerships between Japan and the USA, showcasing my skill in cross-cultural dynamics and fostering successful collaborations. My strong communication skills bridged cultural gaps and contributed to project success, strengthening relationships with clients and partners.
 
 ***
 
@@ -26,6 +26,8 @@ I possess significant experience collaborating with project stakeholders across 
 ## Education
 •	National University of Singapore (NUS) – Bachelor of Technology in Mechanical Engineering  
 •	National University of Singapore (NUS) – Data Intelligence and Business Analytics Programme  
+
+## Certificates
 •	National University of Singapore (NUS) – Professional Certificate in Trisector Strategy and Innovation for Transformation  
 •	National University of Singapore (NUS) – Professional Certificate in Business Analytics  
 •	Google Advanced Data Analytics Specialization  

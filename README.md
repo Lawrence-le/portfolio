@@ -1,4 +1,4 @@
-Sales and Marketing Practitioner | Product & Project Management Specialist | Business & Data Analytics  
+Email: lawrence_mklee@hotmail.com
 [Linkedin](https://www.linkedin.com/in/lawrence-mklee/)
 
 ***

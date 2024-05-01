@@ -2,6 +2,6 @@ title: Lawrence Lee
 logo: Casual_2_2024.png
 ## description:
 theme: jekyll-theme-Minimal
-github:
-  zip_url: http://example.com/download.zip
-  another_url: another value
+## github:
+  ## zip_url: http://example.com/download.zip
+  ## another_url: another value

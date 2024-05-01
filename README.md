@@ -8,8 +8,6 @@ Sales and Marketing Practitioner | Product & Project Management Specialist | Bus
 
 Experienced professional with expertise in Sales and Marketing, Product & Project Management, and Business & Data Analytics.
 
-I have extensive experience collaborating with stakeholders across regions, with a focus on the USA. I led a key project that forged partnerships between Japan and the USA, showcasing my skill in cross-cultural dynamics and fostering successful collaborations. My strong communication skills bridged cultural gaps and contributed to project success, strengthening relationships with clients and partners.
-
 ***
 
 ## Skills

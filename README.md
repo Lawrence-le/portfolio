@@ -5,11 +5,13 @@
 
 ## Profile
 
-My proficiency in simultaneously managing multiple projects, coupled with my meticulous attention to detail and creative problem-solving skills, equips me to navigate the intricacies of project management, including Agile methodologies. I excel in devising innovative solutions to address comprehensive product challenges
+My proficiency in project management, including Agile methodologies, stems from managing multiple projects with meticulous attention to detail and creative problem-solving skills. I excel in devising innovative solutions for complex challenges.
 
-I possess technical expertise in SQL, Python, Tableau, and PowerBI, enhancing my competency in business analysis and enabling me to extract valuable insights for clients through thorough data and market trend analyses.
+Additionally, my technical expertise in SQL, Python, Tableau, and PowerBI enhances my competency in business analysis, allowing me to extract valuable insights for clients through thorough data and market trend analyses.
 
-Beyond these technical skills, my passion for analysis drives me to actively acquire new skills such as machine learning, statistical testing, and data modeling, further enhancing my ability to deliver exceptional results.
+I also excel in managing sales teams and crafting digital marketing strategies, building strong client relationships, ensuring high satisfaction, and mentoring teams for success while consistently meeting sales targets.
+
+Beyond these technical and managerial skills, my passion for analysis drives me to actively acquire new skills such as machine learning, statistical testing, and data modeling, further enhancing my ability to deliver exceptional results.
 
 ***
 

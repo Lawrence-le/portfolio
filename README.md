@@ -33,6 +33,7 @@ Beyond these technical skills, my passion for analysis drives me to actively acq
 ## Certificates
 •	National University of Singapore (NUS) – Professional Certificate in Business Analytics  
 •	National University of Singapore (NUS) – Professional Certificate in Trisector Strategy and Innovation for Transformation 
+  
 •	National University of Singapore – Descriptive Analytics  
 •	National University of Singapore – Prescriptive Analytics    
 •	National University of Singapore – Python Programming  

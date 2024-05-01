@@ -42,7 +42,8 @@ Beyond these technical skills, my passion for analysis drives me to actively acq
 ***
 
 ## Work Experience
-**Associate Division Director @ Propnex Ltd**  
+**Propnex Ltd**  
+**Associate Division Director**  
 
 •	Utilized business analytics tools including SQL, Python, PowerBI/Tableau to analyze real estate market trends and offer data-driven insights to clients    
 •	Proficiently managing multiple tasks across diverse clients and products with meticulous attention to detail  

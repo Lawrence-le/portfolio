@@ -58,28 +58,23 @@ I have extensive experience collaborating with stakeholders across regions, with
 
 **Senior Mechanical Engineer / Project Leader @ Continental Automotive Singapore**  
 
-•	Oversaw engineering projects from initiation to completion, meeting deadlines consistently  
-•	Collaborated with cross-functional teams to identify and resolve design issues  
-•	Managed projects through planning, integration, and delivery of deliverables  
-•	Analyzed test data and optimized product outcomes  
-•	Used AGILE methodology for project management  
-•	Collaborated with suppliers and manufacturers for product quality improvement  
-•	Conducted design review meetings and project milestone updates  
-•	Created technical documentation  
-•	Formulated project scopes, budgets, and goals, achieving 100% goal attainment within budget  
-•	Delivered critical analysis and recommendations with 98% adoption  
-•	Led project prioritization efforts with the engineering team
+•	Oversaw projects from initiation to completion, meeting deadlines consistently.
+•	Collaborated with cross-functional teams to identify and resolve design issues.
+•	Managed projects through planning, integration, and delivery of deliverables.
+•	Analyzed test data and optimized product outcomes.
+•	Used AGILE methodology for project management.
+•	Formulated project scopes, budgets, and goals, achieving 100% goal attainment within budget.
+•	Delivered critical analysis and recommendations with 98% adoption.
+•	Led project prioritization efforts with the engineering team.
+•	Led a key project that forged partnerships between Japan and the USA.
 
 **Associate Mechanical Engineer @ Creative Technology Limited**  
 
-•	Improve designs and adapt to cost variations  
-•	Develop new products and packaging solutions  
-•	Prepare part and assembly drawings for tool release  
-•	Lead and conduct mechanical tooling and design reviews  
-•	Create technical documentation  
-•	Work with project team members from various functions  
-•	Coordinate with vendors for quotations and fabrication  
-•	Partner with suppliers and manufacturers for ongoing product quality and process improvements  
+•	Improve designs and adapt to cost variations.
+•	Develop new products and packaging solutions.
+•	Lead and conduct mechanical tooling and design reviews.
+•	Work with project team members from various functions.
+•	Partner with suppliers and manufacturers for ongoing product quality and process improvements.
 
 ***
 

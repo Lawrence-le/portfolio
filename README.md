@@ -27,12 +27,17 @@ Beyond these technical skills, my passion for analysis drives me to actively acq
 ## Education
 •	National University of Singapore (NUS) – Bachelor of Technology in Mechanical Engineering  
 •	National University of Singapore (NUS) – Data Intelligence and Business Analytics Programme  
+•	Google Advanced Data Analytics Specialization  
+•	Google Data Analytics Specialization  
 
 ## Certificates
 •	National University of Singapore (NUS) – Professional Certificate in Business Analytics  
-•	National University of Singapore (NUS) – Professional Certificate in Trisector Strategy and Innovation for Transformation  
-•	Google Advanced Data Analytics Specialization  
-•	Google Data Analytics Specialization  
+•	National University of Singapore (NUS) – Professional Certificate in Trisector Strategy and Innovation for Transformation 
+•	National University of Singapore – Descriptive Analytics
+•	National University of Singapore – Prescriptive Analytics
+•	National University of Singapore – Python Programming
+•	National University of Singapore – Using Business Analytics to Answer Business Questions
+•	University of California, Davis – SQL for Data Science
 
 ***
 

@@ -28,8 +28,8 @@ I have extensive experience collaborating with stakeholders across regions, with
 •	National University of Singapore (NUS) – Data Intelligence and Business Analytics Programme  
 
 ## Certificates
-•	National University of Singapore (NUS) – Professional Certificate in Trisector Strategy and Innovation for Transformation  
 •	National University of Singapore (NUS) – Professional Certificate in Business Analytics  
+•	National University of Singapore (NUS) – Professional Certificate in Trisector Strategy and Innovation for Transformation  
 •	Google Advanced Data Analytics Specialization  
 •	Google Data Analytics Specialization  
 

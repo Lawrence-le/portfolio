@@ -16,14 +16,14 @@ Beyond these technical and managerial skills, my passion for analysis drives me 
 ***
 
 ## Skills
-•	Product Management, Market Research, Product Roadmapping, User Stories, Customer Experience (CX)
-•	Design Thinking, Problem Solving, Analytical Thinking, Creative Thinking, Strategic Thinking
-•	SQL, Tableau, Power BI, Microsoft Excel, Python
-•	Business Analytics, Data Analytics
-•	Statistics, Machine Learning, Exploratory Data Analysis (EDA), Extract, Transform, Load (ETL)
-•	Project Management, Atlassian Jira, Confluence, Agile Methodology
-•	Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro, Adobe After Effects  
-•	Digital Marketing & Analytics (Website Analytics, YouTube Analytics)  
+•	Product Management, Market Research, Product Roadmapping, User Stories, Customer Experience (CX)  
+•	Design Thinking, Problem Solving, Analytical Thinking, Creative Thinking, Strategic Thinking  
+•	SQL, Tableau, Power BI, Microsoft Excel, Python  
+•	Business Analytics, Data Analytics  
+•	Statistics, Machine Learning, Exploratory Data Analysis (EDA), Extract, Transform, Load (ETL)  
+•	Project Management, Atlassian Jira, Confluence, Agile Methodology  
+•	Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro, Adobe After Effects    
+•	Digital Marketing & Analytics (Website Analytics, YouTube Analytics)    
 
 ***
 

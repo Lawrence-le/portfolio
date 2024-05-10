@@ -5,13 +5,13 @@
 
 ## Profile
 
-My proficiency in project management, including Agile methodologies, stems from managing multiple projects with meticulous attention to detail and creative problem-solving skills. I excel in devising innovative solutions for complex product challenges.
+I specialize in innovative product management, from crafting product-market fit hypotheses to defining business outcomes and using Design Thinking to pinpoint customer needs. Skilled in user story mapping, MVP testing, iterative improvement based on customer analytics, and effective stakeholder management.
 
-Additionally, my technical expertise in SQL, Python, Tableau, and PowerBI enhances my competency in business analysis, allowing me to extract valuable insights for clients through thorough data and market trend analyses.
+Additionally, my technical expertise in SQL, Python, Tableau, and PowerBI enhances my competency in data analytics, allowing me to extract valuable insights for business and clients aiding in data-driven decisions and thorough market trend analysis
 
 I also excel in managing sales teams and crafting digital marketing strategies, building strong client relationships, ensuring high satisfaction, and mentoring teams for success while consistently meeting sales targets.
 
-Beyond these technical and managerial skills, my passion for analysis drives me to actively acquire new skills such as machine learning, statistical testing, and data modeling, further enhancing my ability to deliver exceptional results.
+Beyond these technical and managerial skills, my passion for analysis drives me to actively acquire new skills such as machine learning, statistical testing, and data modelling, further enhancing my ability to deliver exceptional results.
 
 ***
 

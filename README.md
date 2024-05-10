@@ -48,35 +48,35 @@ Beyond these technical and managerial skills, my passion for analysis drives me 
 
 **Associate Division Director @ Propnex Ltd**  
 
-•	Utilized business analytics tools including SQL, Python, PowerBI/Tableau to analyze real estate market trends and offer data-driven insights to clients    
-•	Proficiently managing multiple tasks across diverse clients and products with meticulous attention to detail  
-•	Actively listen to clients' needs and follow up with their requirements, tailoring a structured investment solution  
-•	Implemented effective marketing and sales strategies to attract and convert leads  
-•	Developed impactful digital marketing content strategies, incorporating visualization tools for enhanced presentation    
-•	Cultivated and sustained client relationships for superior satisfaction    
-•	Provided guidance and mentorship to agents for professional growth and achievement  
+•	Defined and executed product strategies for real estate services, aligning with market trends and customer needs.
+•	Conducted market research, competitive analysis, and customer feedback analysis to inform product services roadmap decisions.
+•	Collaborated with cross-functional teams including sales, marketing, and development to deliver high-quality services on time and within budget.
+•	Utilized data analytics tools including SQL, Python, PowerBI/Tableau to analyze real estate market trends and offer data-driven insights to clients.
+•	Employ design thinking principles to empathize with clients, actively listening to their needs and understanding their requirements deeply.
+•	Utilize these insights to ideate and develop structured investment solutions that are tailored to meet client needs while aligning with strategic product objectives and market trends.
+•	Implemented Minimum Viable Product (MVP) strategies within marketing initiatives to assess market reactions and gather valuable insights for informed decision-making.
+•	Provided guidance and mentorship to agents for professional growth and achievement.
 
 **Associate Division Director @ ERA Singapore**  
 
-•	Analyze real estate market trends, providing clients data-driven insights  
-•	Multitasking effectively across various clients and products, managing multiple tasks concurrently with attention to detail  
-•	Develop and implement marketing and sales strategies to attract clients and generate leads  
-•	Craft compelling digital marketing content strategies  
-•	Build strong client relationships, ensuring high customer satisfaction  
-•	Provide guidance and mentorship to agents for professional development  
-•	Lead and manage a team of agents to achieve sales targets and deliver exceptional service  
+•	Crafted and implemented strategic plans for real estate services, ensuring they resonated with current market dynamics and customer expectations.
+•	Conducted thorough market research, competitive analyses, and customer feedback evaluations to guide decisions on product service enhancements.
+•	Worked collaboratively across diverse teams such as sales, marketing, and development to deliver services within specified resources.
+•	Utilized advanced data analytics tools like SQL, Python, and PowerBI/Tableau to analyze real estate market trends, providing clients with data-driven insights.
+•	Transformed insights gained into innovative investment solutions, aligning them with strategic goals and market demands.
+•	Offered guidance and mentorship to agents, fostering their professional growth and achievements within the real estate domain.
 
 **Senior Mechanical Engineer / Project Leader @ Continental Automotive Singapore**  
 
-•	Oversaw projects from initiation to completion, meeting deadlines consistently.  
-•	Collaborated with cross-functional teams to identify and resolve design issues.  
-•	Managed projects through planning, integration, and delivery of deliverables.  
-•	Analyzed test data and optimized product outcomes.  
-•	Used AGILE methodology for project management.  
-•	Formulated project scopes, budgets, and goals, achieving 100% goal attainment within budget.  
-•	Delivered critical analysis and recommendations with 98% adoption.  
-•	Led project prioritization efforts with the engineering team.  
-•	Led a key project that forged partnerships between Japan and the USA.  
+•	Oversaw projects from initiation to completion, meeting deadlines consistently.
+•	Collaborated with cross-functional teams to identify and resolve design issues.
+•	Managed projects through planning, integration, and delivery of deliverables.
+•	Analyzed testing data to optimize product outcomes.
+•	Assume the role of Scrum Master within an Agile methodology framework for project management
+•	Formulated project scopes, budgets, and goals, achieving 100% goal attainment within budget.
+•	Delivered critical analysis and recommendations with 98% adoption.
+•	Led project prioritization efforts with the engineering team.
+•	Led a key project that forged partnerships between Japan and the USA.
 
 **Associate Mechanical Engineer @ Creative Technology Limited**  
 

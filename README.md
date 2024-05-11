@@ -34,6 +34,7 @@ Beyond these technical and managerial skills, my passion for analysis drives me 
 •	Google Data Analytics Specialization  
 
 ## Certificates
+•	University of Virginia Darden School of Business – Digital Product Management Modern Fundamentals  
 •	National University of Singapore – Descriptive Analytics  
 •	National University of Singapore – Prescriptive Analytics    
 •	National University of Singapore – Python Programming  

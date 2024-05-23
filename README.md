@@ -5,15 +5,13 @@
 
 ## Profile
 
-I specialize in innovative product management, from crafting product-market fit hypotheses to defining business outcomes and using design thinking to pinpoint customer needs. Skilled in user story mapping, MVP testing, iterative improvement based on customer analytics, and effective stakeholder management.  
+Experienced in product management, from crafting product-market fit hypotheses to defining business outcomes and using design thinking to pinpoint customer needs. Skilled in user story mapping, MVP testing, iterative improvement based on customer analytics, and effective stakeholder management.  
 
-I possess significant experience collaborating with product stakeholders across various regions. Demonstrating my adeptness in navigating cross-cultural dynamics and fostering successful business collaborations.
-
-Additionally, my technical expertise in SQL, Python, Tableau, and PowerBI enhances my competency in data analytics, allowing me to extract valuable insights for business and clients aiding in data-driven decisions and thorough market trend analysis.  
+Additionally, my proficiency SQL, Python, Tableau, and PowerBI enhances my competency in data analytics, allowing me to extract valuable insights for business and clients aiding in data-driven decisions and thorough market trend analysis  
 
 I also excel in managing sales teams and crafting digital marketing strategies, building strong client relationships, ensuring high satisfaction, and mentoring teams for success while consistently meeting sales targets.  
 
-Beyond these skills, my passion for analysis drives me to actively acquire new skills such as machine learning, statistical testing, and data modelling, further enhancing my ability to deliver exceptional results.  
+Beyond these skills, my passion for analysis drives me to actively acquire new skills such as machine learning, statistical testing, and data modelling.  
 
 ***
 

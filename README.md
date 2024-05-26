@@ -57,14 +57,14 @@
 **Senior Mechanical Engineer / Project Leader @ Continental Automotive Singapore**  
 
 •	Oversaw projects from initiation to completion, meeting deadlines consistently.  
+•	Leading a pivotal project in the USA, I forged essential work partnerships between Japan and the American region.  
 •	Collaborated with cross-functional teams to identify and resolve design issues.  
 •	Managed projects through planning, integration, and delivery of deliverables.  
 •	Analyzed testing data to optimize product outcomes.  
 •	Assume the role of Scrum Master within an Agile methodology framework for project management.  
 •	Formulated project scopes, budgets, and goals, achieving 100% goal attainment within budget.  
-•	Delivered critical analysis and recommendations with 98% adoption.    
+•	Delivered critical analysis and recommendations with 98% adoption.  
 •	Led project prioritization efforts with the engineering team.  
-•	Led a key project that forged partnerships between Japan and the USA.  
 
 **Associate Mechanical Engineer @ Creative Technology Limited**  
 

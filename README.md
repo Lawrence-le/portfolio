@@ -20,15 +20,15 @@
 •	National University of Singapore (NUS) – Data Intelligence and Business Analytics Programme  
 
 ## Certificates
-•	National University of Singapore – Professional Certificate in Business Analytics  
-•	National University of Singapore – Professional Certificate in Trisector Strategy and Innovation for Transformation  
-•	Google Advanced Data Analytics Specialization  
-•	Google Data Analytics Specialization  
-•	University of Virginia Darden School of Business – Digital Product Management Modern Fundamentals  
-•	National University of Singapore – Descriptive Analytics  
-•	National University of Singapore – Prescriptive Analytics  
-•	National University of Singapore – Python Programming  
-•	University of California, Davis – SQL for Data Science  
+•	Business Analytics (Professional Certificate) – National University of Singapore  
+•	Trisector Strategy and Innovation for Transformation (Professional Certificate) – National University of Singapore  
+•	Google Advanced Data Analytics (Professional Certificate)  
+•	Google Data Analytics (Professional Certificate)  
+•	Digital Product Management Modern Fundamentals – University of Virginia Darden School of Business  
+•	Descriptive Analytics – National University of Singapore  
+•	Prescriptive Analytics – National University of Singapore  
+•	Python Programming – National University of Singapore  
+•	SQL for Data Science – University of California, Davis  
 
 ***
 

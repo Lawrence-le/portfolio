@@ -39,32 +39,30 @@
 •	Defined and executed product strategies for real estate services, aligning with market trends and customer needs.  
 •	Conducted market research, competitive analysis, and customer feedback analysis to inform product services roadmap decisions.  
 •	Collaborated with cross-functional teams including sales, marketing, and development to deliver high-quality services on time and within budget.  
-•	Utilized data analytics tools including SQL, Python, PowerBI/Tableau to analyze real estate market trends and offer data-driven insights to clients.   
-•	Employ design thinking principles to empathize with clients, actively listening to their needs and understanding their requirements deeply.  
-•	Utilize these insights to ideate and develop structured investment solutions that are tailored to meet client needs while aligning with strategic product objectives and market trends.  
-•	Implemented Minimum Viable Product (MVP) strategies within marketing initiatives to assess market reactions and gather valuable insights for informed decision-making.  
-•	Provided guidance and mentorship to agents for professional growth and achievement.  
+•	Utilized data analytics tools (SQL, Python, Power BI/Tableau) to analyze real estate market trends.  
+•	Employed design thinking principles to empathize with clients and understand their requirements deeply.  
+•	Developed structured investment solutions tailored to client needs and market trends.  
+
 
 **Associate Division Director @ ERA Singapore**  
 
 •	Crafted and implemented strategic plans for real estate services, ensuring they resonated with current market dynamics and customer expectations.  
 •	Conducted thorough market research, competitive analyses, and customer feedback evaluations to guide decisions on product service enhancements.  
-•	Worked collaboratively across diverse teams such as sales, marketing, and development to deliver services within specified resources.  
-•	Utilized advanced data analytics tools like SQL, Python, and PowerBI/Tableau to analyze real estate market trends, providing clients with data-driven insights.  
-•	Transformed insights gained into innovative investment solutions, aligning them with strategic goals and market demands.  
-•	Offered guidance and mentorship to agents, fostering their professional growth and achievements within the real estate domain.  
+•	Collaborated across diverse teams such as sales, marketing, and development to deliver services within specified resources.  
+•	Transformed insights into innovative investment solutions, aligning with strategic goals and market demands.  
+
 
 **Senior Mechanical Engineer / Project Leader @ Continental Automotive Singapore**  
 
 •	Oversaw projects from initiation to completion, meeting deadlines consistently.  
-•	Leading a pivotal project in the USA, I forged essential work partnerships between Japan and the American region.  
+•	Forged essential work partnerships between Japan and the American region for a pivotal project in the USA.  
 •	Collaborated with cross-functional teams to identify and resolve design issues.  
 •	Managed projects through planning, integration, and delivery of deliverables.  
 •	Analyzed testing data to optimize product outcomes.  
 •	Assume the role of Scrum Master within an Agile methodology framework for project management.  
 •	Formulated project scopes, budgets, and goals, achieving 100% goal attainment within budget.  
-•	Delivered critical analysis and recommendations with 98% adoption.  
 •	Led project prioritization efforts with the engineering team.  
+
 
 **Associate Mechanical Engineer @ Creative Technology Limited**  
 
